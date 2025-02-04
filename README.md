@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasikatelase&label=Profile%20views&color=0e75b6&style=flat" alt="rasikatelase" /> </p>
 
-- 🌱 I’m currently learning **Python Programming Language**
+- 🌱 I’m currently learning **Javascript Programming Language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RasikaTelase](https://github.com/RasikaTelase)
 

@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RasikaTelase](https://github.com/RasikaTelase)
 
-- 💬 Ask me about   **Python,YOLOv8 • OpenCV • PX4 • MAVSDK • Raspberry Pi • Machine Learning • Deep Learning**
+- 💬 Ask me about   **Python, • PX4 • Machine Learning • Deep Learning**
 
 - 📫 How to reach me **rasikatelase675@gmail.com**
 

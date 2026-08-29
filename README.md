@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasikatelase&label=Profile%20views&color=0e75b6&style=flat" alt="rasikatelase" /> </p>
 
-- 🌱 I’m currently learning **Javascript Programming Language**
+- 🌱 I’m currently learning **RAG, Agentic AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RasikaTelase](https://github.com/RasikaTelase)
 
-- 💬 Ask me about **Python,YOLOv8 • OpenCV • PX4 • MAVSDK • Raspberry Pi • Machine Learning • Deep Learning**
+- 💬 Ask me about   **Python,YOLOv8 • OpenCV • PX4 • MAVSDK • Raspberry Pi • Machine Learning • Deep Learning**
 
 - 📫 How to reach me **rasikatelase675@gmail.com**
 
